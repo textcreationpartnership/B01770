@@ -1,0 +1,297 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble advice and earnest desires of certain well-affected ministers, lecturers of Banbury in the county of Oxon, and of Brackly in the county of Northampton, to his Excellency Thomas Lord Fairfax, General of the forces raised by the authority of Parliament; and to the General Councell of Warre: / Presented Januray 25. 1649, by two of the subscribers. Also, a letter to the reverend ministers of the Gospel within the province of London, dated the 21 of this instant January.</title>
+            <author>Breedon, Zachariah.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01770</idno>
+            <idno type="STC">Wing B4341AA</idno>
+            <idno type="STC">ESTC R175578</idno>
+            <idno type="EEBO-CITATION">51784414</idno>
+            <idno type="OCLC">ocm 51784414</idno>
+            <idno type="VID">174836</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01770)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174836)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2702:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble advice and earnest desires of certain well-affected ministers, lecturers of Banbury in the county of Oxon, and of Brackly in the county of Northampton, to his Excellency Thomas Lord Fairfax, General of the forces raised by the authority of Parliament; and to the General Councell of Warre: / Presented Januray 25. 1649, by two of the subscribers. Also, a letter to the reverend ministers of the Gospel within the province of London, dated the 21 of this instant January.</title>
+                  <author>Breedon, Zachariah.</author>
+                  <author>Hodges, Thomas, d. 1688.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for James Boler ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The Humble Advice" is signed by Zach. Breedon [et al.]</note>
+                  <note>"A Letter" is signed by Thomas Hodges [et al.]</note>
+                  <note>"Imprimatur: James Cranford, Jan. 25. 1649."</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Fairfax, Thomas Fairfax, --  Baron, 1612-1671.</term>
+               <term>Great Britain. --  Army. --  Council.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Pamphlets.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174836:1" rendition="simple:additions"/>
+            <p>The Humble Advice AND EARNEST DESIRES Of certain well-affected MINISTERS, LECTURERS of <hi>BANB<g ref="char:V">Ʋ</g>RY</hi> in the County of <hi>Oxen,</hi> and of <hi>BRACKLY</hi> in the County of <hi>Northampton,</hi> To his Excellency <hi>THOMAS</hi> Lord <hi>FAIRFAX,</hi> General of the Forces raiſed by the Authority of PARLIAMENT; and to the General Councell of WARRE: Preſented <hi>January</hi> 25. 1649, by two of the Subſcribers.</p>
+            <p>
+               <hi>ALSO,</hi> A LETTER to the Reverend Miniſters of the Goſpel wi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hin the Province of <hi>London,</hi> Dated the 21 of this inſtant <hi>January.</hi>
+            </p>
+            <p>Imprimatur: <hi>James Crauford, Jan.</hi> 25. 1649.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>James Boler,</hi> at the Mary-gold in <hi>Fleet-ſtreet.</hi> 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:174836:2"/>
+            <pb n="3" facs="tcp:174836:2"/>
+            <head>To his Excellency the Lord Generall <hi>FAIRFAX,</hi> and his General Councel of WARRE,</head>
+            <head type="sub">The humble Advice and earneſt Deſires of certain wel-affected Miniſters, Lecturers of <hi>Banbury</hi> and <hi>Brackley.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">M</seg>Ay it pleaſe your Excellency, and You, Honoured Gentlemen, Whereas by the bleſſing of God upon your un<g ref="char:EOLhyphen"/>wearied endeavours, ſubduing the common enemy more then once, we were in a fair way of being reſtored to a long deſired enjoyment of our Re<g ref="char:EOLhyphen"/>ligion in purity, our Perſons and Eſtates in freedom; we accept at all times, and this day acknowledg it with great thankfulneſſe. Nevertheleſſe, when we compare the ſacred and ſolemn Oaths of Allegeance and Supre<g ref="char:EOLhyphen"/>macy, by Statute Law, the Proteſtation and Nationall Covenant by authority of both Houſes of Parliament (obliging us to the Reformation of Religion, preſerva<g ref="char:EOLhyphen"/>tion of his Majeſties Perſon and juſt Power, the defence of the Priviledges of Parliament and Liberties of the Subject) tendered unto, preſt upon, and all or moſt ta<g ref="char:EOLhyphen"/>ken
+<pb n="4" facs="tcp:174836:3"/>
+by us, and ſo conſiderable a part of this Kingdom: Together with ſome late Petitions, Declarations and Repreſentations to your Excellency and the Generall Councel of War, and your late Remonſtrance to the Commons of <hi>England</hi> aſſembled in Parliament, and ſome proceedings thereupon, both in relation to his Majeſtie, and ſeverall Members of Parliament: And withall, our own Station and Commiſſion from God to be Watch<g ref="char:EOLhyphen"/>men and Seers to his people, to ſtand upon our Watch<g ref="char:EOLhyphen"/>tower and give warning either of approaching ſin or ru<g ref="char:EOLhyphen"/>ine to the Nation: We cannot without wounding our own conſciences, and betraying the truſt repoſed in us, ſit down in ſilence; but are conſtrained, with all due re<g ref="char:EOLhyphen"/>ſpects to your Excellency and your Councell (and we hope, without the leaſt offence) to repreſent and deſire as followeth.</p>
+            <div type="part">
+               <head>Firſt, In reference to his Majeſtie.</head>
+               <p>That although we are not ignorant of, nor can in the leaſt approve the profanation and abuſe of our ſo<g ref="char:EOLhyphen"/>lemn Covenant by the late unlawfull Ingagement from <hi>Scotland;</hi> yet we cannot but repreſent to you, and mani<g ref="char:EOLhyphen"/>feſt to the world our utter diſſent from all proceedings againſt his Majeſties Crown and Life: and that upon theſe enſuing grounds of Conſcience and Prudence.</p>
+               <p n="1">1. The ſacred Scripture (the onely unerring rule for all undertakings) neither by precept, or precedent, or other way doth warrant or countenance ſuch actings of Subjects againſt their lawfull Soveraign: But this re<g ref="char:EOLhyphen"/>maineth upon divine Record, That when the ten Tribes forſook their King, they alſo forſook their God, and had neither a good King, nor ſcarce a good day afterwards. And our own Chronicles do ſadly tell us of a Deluge of bloud and calamities overflowing our Anceſtours upon
+<pb n="5" facs="tcp:174836:3"/>
+the Depoſition of <hi>Edward</hi> the Second, and <hi>Richard</hi> the Second, both Kings of <hi>England.</hi>
+               </p>
+               <p n="2">2. Our Law-books (as we are informed by Parliament Declarations, and as hath been lately acknowledged by your Remonſtrance) ſuppoſe the King can do no wrong: If ſo, then (as wee conceive) hee cannot by any written Law forfeit his Crown and Life to his people.</p>
+               <p n="3">3. We have ſolemnly bound our ſelves by Oaths and Covenant (from which no Authority on earth can abſolve us) not to prejudice the Perſon, nor diminiſh the juſt Authority of the King; and therefore, without manifeſt perjury (as we conceive) we cannot conſent either to the Depoſition of his Majeſty, or the depriva<g ref="char:EOLhyphen"/>tion of his life. And here we humbly preſent to your moſt ſerious conſideration Gods remarkable avenge upon the Houſe of <hi>Saul,</hi> of the breach of Covenant made by <hi>Joſhuah</hi> with the <hi>Gibeonites</hi> ſome hundreds of yeers before; and that although the Scriptures tell us, hee did it out of his zeal to the Houſe of <hi>Iſrael</hi> and <hi>Judah.</hi>
+               </p>
+               <p>Fourthly, The way of proceeding againſt his Maje<g ref="char:EOLhyphen"/>ſtie will be ſo far from ſpeeding a Settlement, that we beleeve, it will unvaoydably tend to the ſcandal and ha<g ref="char:EOLhyphen"/>zard of Religion, and loſſe of Liberty.</p>
+               <p n="1">1. In the judgement of our enemies: This will be thought to verifie thoſe foul aſperſions ſo often abjured by the Parliament, us, and other their friends, that the deſigne in our late juſt Defence, was the ruine of his Majeſty, and the ſubverſion of Regal Government.</p>
+               <p n="2">2. It will hazard Religion, by rendring the Profeſſors of it odious to the Common Enemy without, by ſhaking the foundation of our Union with <hi>Scotland,</hi> and by making
+<pb n="6" facs="tcp:174836:4"/>
+an irreparable breach amongſt men of the ſame pious and honeſt intereſt at Home.</p>
+               <p n="3">3. As for Liberty, (ſo much contended for) it cannot be denied but it muſt be an invitation to forraign Princes to invade us; (their intereſt being the ſame:) And the ra<g ref="char:EOLhyphen"/>ther, conſidering the <hi>German</hi>-Peace ſo lately concluded, by means whereof they cannot but be ſupplyed with Armies of Mercinaries that gape after ſuch an opportunity.</p>
+               <p>But principally (we fear) this may give Life to the pre<g ref="char:EOLhyphen"/>ſent deſign now on foot in <hi>Ireland</hi> (which your and our Souls abhor) for the utter ruine of our Friends there, and ſpeedy invading of this Kingdom.</p>
+               <p>And finally, that this may tend to a perpetual engage<g ref="char:EOLhyphen"/>ment of the three Kingdoms of <hi>England, Scotland,</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land</hi> in blood, all being ſo deeply intereſſed in the perſon of the King; and that inevitably, becauſe the Prince of Wales (the Heir apparent to the Crowns of all the three Kingdoms) is now at liberty, and may probably be pro<g ref="char:EOLhyphen"/>claimed and crowned in <hi>Scotland</hi> and <hi>Ireland,</hi> and ſo not likely to want power to ſeat him on his Fathers Throne here in <hi>England,</hi> yea, and that poſſibly without Conditions, to the utter ruine of all that have adhered to the Parlia<g ref="char:EOLhyphen"/>ment.</p>
+               <p>Fifthly, whereas it is ſaid, That by his Majeſties depar<g ref="char:EOLhyphen"/>ting from his Parliament, ſetting up his Standard, and levying War againſt his People; they are abſolved from their allegiance to him, notwithſtanding the Oaths before mentioned: We well remember that thoſe Oaths, toge<g ref="char:EOLhyphen"/>ther with the Covenant, have been Conſtantly preſt upon ſeveral Members of the Parliament, and other Subjects in this Kingdom, to the Time of the Late Treaty<g ref="char:punc">▪</g> if not ſince; and that notwithſtrnding the aforeſaid particulars now charged againſt his Majeſty, and therefore muſt needs be
+<pb n="7" facs="tcp:174836:4"/>
+either vain, (and ſo a High prophanation of the dreadfull name of God) or elſe obligatory. And were they not ſo judged, we know no convincing reaſon why they ſhould be now ſuſpended or aboliſhed. As to the execution of Juſtice upon Delinquents covenanted for, we proteſt that the Dethroning or death of his Majeſty, in proſecution of Juſtice, never entered into our hearts: The ſame Cove<g ref="char:EOLhyphen"/>nant making ſpeciall proviſion for the preſervation of his Majeſties Perſon, Honor and Authority.</p>
+               <p>Sixthly and laſtly, His Majeſty was not taken in Battail, but having a Military power, and ſtrong Gariſons in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> beſides forces in <hi>Scotland</hi> and <hi>Ireland,</hi> did (being invi<g ref="char:EOLhyphen"/>ted and encouraged (as we think) by ſeverall joint Decla<g ref="char:EOLhyphen"/>rations and Proteſtations of the Parliament of both King<g ref="char:EOLhyphen"/>doms, (promiſing ſecurity to his Royall perſon) ſurrender himſelf to the Army of our Brethren of <hi>Scotland,</hi> and by them was delivered to the Commiſſioners of the Parlia<g ref="char:EOLhyphen"/>ment of <hi>England,</hi> upon expreſs promiſe (as we are in for<g ref="char:EOLhyphen"/>med) that no violence ſhould be offered to his Perſon; and farther, when His Majeſty went from <hi>Hampton Court,</hi> we ſuppoſe him at Liberty to have gone for <hi>Scotland</hi> or <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> but in the forementioned confidence in Parliamentary Declarations, and the reallity of the Armies intentions towards him, (for we are ignorant of other ſufficient cauſe) he voluntarily betook himſelf to the Iſle of Wight, then in your power.</p>
+            </div>
+            <div type="part">
+               <head>Secondly, we declare in reference to the Parliament, and Priviledges thereof;</head>
+               <p>That calling to minde his Majeſties attempt to ſeiz up<g ref="char:EOLhyphen"/>on the five Members, which was declared by the Parlia<g ref="char:EOLhyphen"/>ment, and acknowledged by the King himſelf a breach of Priviledg, and withall the Ordinance of Parliament of
+<pb n="8" facs="tcp:174836:5"/>
+the 20 of <hi>Auguſt,</hi> 1647. declaring the acceſſitated ab<g ref="char:EOLhyphen"/>ſence of divers Members of both Houſes, by reaſon of the horrid force upon them, to be a ground ſufficient for the making nul<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and void all votes paſſed in both or ei<g ref="char:EOLhyphen"/>ther Houſe of Parliament, from the 26 of <hi>July,</hi> to their return <hi>Auguſt</hi> 6; we cannot but conceive the ſeizing and ſecluding of divers Members (many of them being well known to us to be faithfull Patriots, and (we are confi<g ref="char:EOLhyphen"/>dent) have not apoſtatized to the contrary party) to be a breach of Priviledge of Parliament, which in our Co<g ref="char:EOLhyphen"/>venant we are ſworn in our places to defend; and do therefore crave leave to diſſent.</p>
+            </div>
+            <div type="part">
+               <head>Thirdly, We declare in reference to Religion,</head>
+               <p>That although our ſoules abhorr that grand deſigne of the Devill and his Agents, to decry all religious and zea<g ref="char:EOLhyphen"/>lous profeſſors, under the name of Sectaries and Inde<g ref="char:EOLhyphen"/>pendents; and although we do willingly grant, and hear<g ref="char:EOLhyphen"/>tily deſire that the intereſt of all Godly and honeſt men may be carefully provided for, and ſecured as far as is conſiſtent with the word of God, our Covenant and publique Peace, and that men of different apprehenſi<g ref="char:EOLhyphen"/>ons in matters of leſs importance, may not therefore be rendred utterly uncapable of all Offices of power and truſt; yet conſidering of what dangerous conſequence an univerſal Toleration in matter of Religion, ſo much la<g ref="char:EOLhyphen"/>boured after in the beginning of Reformation, by the Jeſuitical party, muſt needs prove to Church and State; we preſume timouſly to declare, That ſuch a Toleration is no way conſonant to the Word of God, and is repug<g ref="char:EOLhyphen"/>nant to our National Covenant.</p>
+               <p>And now having herein according to our conſciences ſo fully and freely diſcharged our duties to God and the Kingdom, and as much as in us lyeth, freed our ſelves
+<pb n="9" facs="tcp:174836:5"/>
+from the guilt of the blood, miſery and ruine that threa<g ref="char:EOLhyphen"/>ten us and the whole Kingdom, if not timely prevented: We moſt humbly deſire as followeth:</p>
+               <p>Firſt, that your Excellency will be pleaſed (for the more ſpeedy ſettlement of the true Proteſtant Reli<g ref="char:EOLhyphen"/>gion and publique peace of the Kingdom, to improve your utmoſt, That the impriſoned and ſecluded Mem<g ref="char:EOLhyphen"/>bers, that cannot juſtly be charged for betraying their Truſt, may be forthwith reſtored; and ſuch as ſhall be charged to be tryed by Parliament, according to their Priviledg.</p>
+               <p>Secondly, that weighing in a juſt balance the rea<g ref="char:EOLhyphen"/>ſons before alledged, with many more that may be added in relation to his Majeſty, we humbly deſire your Excellency will be pleaſed by all lawfull means to endevour the ſuſpending of all proceedings againſt his Majeſties Crown and Life, untill advice had (in point of Conſcience) with the Reverend Aſſembly of Divines, and the Church of <hi>Scotland,</hi> touching the ſeverall Oaths that lye both upon us and them, and in point of prudence, with the Kingdom of <hi>Scotland,</hi> who are jointly concerned with us in his Majeſty.</p>
+               <p>Thirdly, and laſtly, that you will endeavour a right underſtanding, a good correſpondence and mutuall confidence between King, Parliament, City, Army, and all the well-affected perſons of the Kingdom, as al<g ref="char:EOLhyphen"/>ſo between the two Kingdoms of England and Scot<g ref="char:EOLhyphen"/>land, thereby to fruſtrate the great expectations of the Popipſh arty, who are high in their hopes, by reaſon of our preſent ſad diviſions and diſtractions promiſing
+<pb n="10" facs="tcp:174836:6"/>
+to themſelves (and doe not ſtick to declare it) a greater advantage to them and their Religion now, then if the King had prevailed by an abſolute Conqueſt. As alſo to haſten relief to our poor Brethren in bleeding and gaſping Ireland, for whom England hath kept the ſolemn monethly Faſt, near ſeven years together.</p>
+               <p>But (to draw towards a concluſion) we do here ſo<g ref="char:EOLhyphen"/>lemnly profeſſ, That it is not the leaſt receding from our firſt ſound principles upon which either with our perſons, prayers, purſes, or al we engaged with the Parliament in the firſt and ſecond war; nor our own intereſt in Church patrimony or power, (God will provide) or indeed any other byaſs of ſelf-ends, or reſpects whatſoever, did move us thus to declare our ſelves, but the meer Conſcience of the many Oaths of God, in which the Parliament, You, We, and the generality of the wel-affected in the Kingdom indiſpenſably ſtand bound be<g ref="char:EOLhyphen"/>fore God, Angels and Men, That we deſire to waſh our hands, as from the blood of all men, ſo eſpecially of our dread Soveraign; and to approve our ſelves in<g ref="char:EOLhyphen"/>nocent of all that blood and miſery the depoſing and taking away his Majeſties life, will (in our apprehen<g ref="char:EOLhyphen"/>ſion) involve us, our poſterity, and all men profeſſing godlineſs in the three Kingdoms in. We doe there<g ref="char:EOLhyphen"/>fore from our ſoul beſeech and importune you, and every one of you, as Men, Gentlemen, and Chriſtian Souldiers, by all that is or can be dear to good men, as you deſire to render a good account of your actions at the great Day to the righteous Judg of heaven &amp; earth, That you will forbear doing ought in the premiſes, which may wound the conſcience, or peirce the hearts of any of Gods people (who are all alike with you, or
+<pb n="11" facs="tcp:174836:6"/>
+any of you, precious to him as the apple of his eye) which may rend and tear the bowels of this your and our native Country, and occaſion the common Enemy to blaſpheme the Majeſty, Truth and Cauſe of our God and your God: And further to contribute the utmoſt skil, ſtudy and en<g ref="char:EOLhyphen"/>deavours of you and every of you in your proper places, (and the great Counſellour and mighty God direct you all) to remove ours and the Kingdoms fears, to remedie the preſent abounding diſtempers, and preſent and univerſall deſtruction; That we and the generations to come may riſe up and call you bleſſed, and ſo eminent a Preſervation of the Kingdom in ſuch an extremity, may be had in everlaſting remembrance.</p>
+               <list>
+                  <item>
+                     <hi>Zach. Breedon</hi> Miniſter of <hi>Croton.</hi>
+                  </item>
+                  <item>
+                     <hi>William Palmer</hi> Miniſter of <hi>Rowſam.</hi>
+                  </item>
+                  <item>
+                     <hi>Joſias Bunn</hi> Miniſter of <hi>Turry-Weſton.</hi>
+                  </item>
+                  <item>
+                     <hi>John Hoffman</hi> Miniſter of <hi>Wotton.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Harris</hi> Miniſter of <hi>Brackley.</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Harris</hi> Miniſter of <hi>Shalſton.</hi>
+                  </item>
+                  <item>
+                     <hi>Edward Whirley</hi> Miniſter of <hi>Steeple-Aſton.</hi>
+                  </item>
+                  <item>
+                     <hi>John Cave</hi> Miniſter of <hi>Middleton-Chynie.</hi>
+                  </item>
+                  <item>
+                     <hi>Samuel Welles</hi> Miniſter of <hi>Banbury.</hi>
+                  </item>
+                  <item>
+                     <hi>Edward Archer</hi> Miniſter of <hi>Sommerton.</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Wilde</hi> Miniſter of <hi>Ayenho.</hi>
+                  </item>
+                  <item>
+                     <hi>Tho. Hodges</hi> Miniſter of <hi>Souldern.</hi>
+                  </item>
+                  <item>
+                     <hi>Richard White</hi> Miniſter of <hi>Wigginton.</hi>
+                  </item>
+                  <item>
+                     <hi>Stephen Sedgwick</hi> Miniſter of <hi>Tinſwick.</hi>
+                  </item>
+                  <item>
+                     <hi>Creſwell Whately</hi> Miniſter of <hi>Tad-Marton.</hi>
+                  </item>
+                  <item>
+                     <hi>John Eyre</hi> Miniſter of <hi>Laurence-Marſton.</hi>
+                  </item>
+                  <item>
+                     <hi>John Bayly</hi> Miniſter of <hi>Frenhford.</hi>
+                  </item>
+                  <item>
+                     <hi>Timothy Perkins</hi> Miniſter of <hi>Evenly.</hi>
+                  </item>
+                  <item>
+                     <hi>Samſon Smart</hi> Miniſter of <hi>Gritworth.</hi>
+                  </item>
+               </list>
+            </div>
+         </div>
+         <div type="dedication">
+            <pb n="12" facs="tcp:174836:7"/>
+            <opener>
+               <salute>Reverend, and Worthy in the Lord,</salute>
+            </opener>
+            <p>THe great breaches which now for ſome time have, and ſtill are made upon thoſe publick Endearments to us, <hi>(viz.)</hi> Religion, our King and Parliament, do ſorely preſſe us, and wound us deeply; What ſhall we do? We cannot keep ſilence, we dare not; if we ſhould, our Conſciences would not. Great are our fears, but great<g ref="char:EOLhyphen"/>er are our duties, for the performance of which, we have trampled down all our fears, and through Gods mercy have met together, and reſolved with one heart and voice to own the Vows of God upon us, and according to their obligation (if we can do no more, yet) at leaſt to deliver our own ſouls. In order whereunto, we, and ſome others of our Brethren have choſen and ſent up our Brethren, Mr. <hi>Samuel Welles</hi> Miniſter of <hi>Banbury,</hi> and Mr. <hi>John Bayly</hi> Miniſter of <hi>Frenckford,</hi> to wait upon you at <hi>London:</hi> whoſe Labours in this very thing alſo, according to the wiſdom and zeal given you, we hear of, and rejoyce in, praying for you, that they may not be in vain in the Lord: They will acquaint you with our <hi>Humble Advice to the Lord Generall and his General Councel;</hi> which (though of it ſelf it be a poor nail hammered by us inferiour Workmen) yet be<g ref="char:EOLhyphen"/>ing faſtened by the hands of ſuch Maſters of the Aſſemblies as your ſelves) may enter the deeper, and ſtick the faſter. We beſeech you to peruſe it, and to direct them in all things conducing to the right mannaging of it; and to admit our few mites into the Treaſury of your Religion and Loyalty. And the God and Father of lights di<g ref="char:EOLhyphen"/>rect and aſsiſt you and us to ſhine as lights in the midſt of a froward generation. To his Mercies we commend you, and reſt</p>
+            <closer>
+               <signed>
+                  <hi>Your Brethren and fellow-labourers in the Goſpel of Chriſt,</hi>
+                  <list>
+                     <item>
+                        <hi>Thomas Hodges.</hi>
+                     </item>
+                     <item>
+                        <hi>John Eyre.</hi>
+                     </item>
+                     <item>
+                        <hi>Timothy Perkins.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Harris.</hi>
+                     </item>
+                     <item>
+                        <hi>Zach. Breedon.</hi>
+                     </item>
+                     <item>
+                        <hi>John Cave.</hi>
+                     </item>
+                     <item>
+                        <hi>Joſias Bunn.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Harris.</hi>
+                     </item>
+                     <item>
+                        <hi>Samſon Smart.</hi>
+                     </item>
+                     <item>
+                        <hi>Edw. Archer.</hi>
+                     </item>
+                     <item>
+                        <hi>Rob. Wilde.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
